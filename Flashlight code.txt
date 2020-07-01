@@ -1,0 +1,22 @@
+<button type="button" onclick="myFunction()"><h1>OFF</h1></a></button>
+<button type="button" onclick="mEFunction()"><h1>ON</h1></button>
+
+<script>
+function myFunction()
+{   
+document.body.style.backgroundColor= "BLACK";
+}
+</script>
+
+<script>
+function mEFunction()
+{   
+document.body.style.backgroundColor= "WHITE";
+}
+</script>
+
+
+
+
+
+
